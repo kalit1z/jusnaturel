@@ -1,5 +1,5 @@
 ---
-title: "Découvrez l'équipe de Jardins Passion"
-meta_title: "Découvrez l'équipe de Jardins Passion"
-description: "Jardins Passion vous guide pour réussir votre potager. Conseils experts, astuces d'arrosage et bien plus pour des récoltes abondantes et saines."
+title: "Notre Équipe Passionnée de Jus Naturels"
+meta_title: "L'Équipe Créative Derrière Nos Recettes de Jus Naturels"
+description: "Rencontrez notre équipe dévouée, passionnée par les jus naturels. Nous partageons notre enthousiasme à travers des recettes originales, des astuces pratiques et notre amour pour les fruits et légumes frais."
 ---

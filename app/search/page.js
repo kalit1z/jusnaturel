@@ -7,9 +7,9 @@ const SearchPage = async () => {
   const authors = await getSinglePage("content/authors");
 
   // Définition statique des métadonnées SEO
-  const pageTitle = "Recherche | Jardins Passion";
-  const metaTitle = "Recherchez du contenu sur Jardins Passion";
-  const metaDescription = "Utilisez notre fonction de recherche pour trouver rapidement les articles, auteurs et sujets qui vous intéressent sur Jardins Passion. Découvrez notre contenu varié et informatif.";
+  const pageTitle = "Recherche de Recettes | Jus Naturel";
+  const metaTitle = "Recettes de Jus Naturels Maison - Fruits et Légumes Frais | JusNaturel.fr";
+  const metaDescription = "Découvrez nos recettes de jus naturels faciles à préparer. Explorez des combinaisons de fruits et légumes frais pour des jus délicieux et pleins de vitalité. Créez vos jus maison avec JusNaturel.fr.";
 
   return (
     <>

@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Jardins Passion | Expert en Potagers",
-    "base_url": "/",
+    "title": "JusNaturel.fr | Expert en Recettes de Jus Frais et Naturels",
+    "base_url": "https/jusnaturel.fr/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
     "logo_width": "234",
     "logo_height": "50",
-    "logo_text": "Jardins Passion"
+    "logo_text": "JusNaturel.fr"
   },
 
   "settings": {
@@ -18,12 +18,12 @@
   "params": {
     "tag_manager_id": "",
     "contact_form_action": "https://formspree.io/f/xkndjywo",
-    "copyright": "© 2024 Jardins Passion. Tous droits réservés."
+    "copyright": "© 2024 Jus Naturel. Tous droits réservés."
   },
 
   "metadata": {
-    "meta_author": "Équipe Jardins Passion",
+    "meta_author": "Équipe JusNaturel.fr",
     "meta_image": "/images/favicon.png",
-    "meta_description": "Jardins Passion : votre guide expert pour créer et entretenir un potager productif. Conseils, astuces et techniques pour cultiver vos propres fruits et légumes."
+    "meta_description": "Découvrez des recettes de jus naturels savoureux et bénéfiques pour votre santé sur JusNaturel.fr. Apprenez à créer vos propres jus frais avec nos conseils d'expert et nos combinaisons de fruits et légumes innovantes."
   }
 }

@@ -1,13 +1,13 @@
 ---
-title: "Mentions Légales - Jardins Passion"
-meta_title: "Mentions Légales | Jardins Passion - Votre Expert en Potagers"
-description: "Mentions légales et politique de confidentialité de Jardins Passion, votre guide expert pour la création et l'entretien de potagers."
+title: "Mentions Légales | Jus Naturel"
+meta_title: "Mentions Légales et Politique de Confidentialité | Jus Naturel"
+description: "Consultez nos mentions légales et notre politique de confidentialité. Jus Naturel s'engage à protéger vos données personnelles et à respecter la réglementation en vigueur tout en vous offrant du contenu de qualité sur les jus frais."
 draft: false
 ---
 
 ## Introduction et Collecte de Données
 
-Le site Web https://www.jardins-passion.fr/ offre à ses utilisateurs du contenu gratuit relatif aux potagers, avec ou sans nécessité d'inscription. Notre politique de collecte de données est minimaliste et éthique concernant les informations personnelles des utilisateurs.
+Le site Web https://www.jusnaturel.fr/ offre à ses utilisateurs du contenu gratuit relatif aux jus naturels, avec ou sans nécessité d'inscription. Notre politique de collecte de données est minimaliste et éthique concernant les informations personnelles des utilisateurs.
 
 ### Données Collectées
 
@@ -20,32 +20,31 @@ Vous pouvez vous désinscrire à tout moment de notre base de données email. Le
 
 ## Mentions Légales
 
-- **Site édité par** : Jardins Passion
-- **Email** : contact@jardins-passion.fr
-- **Dénomination sociale** : DeMatos BTP LLC
-- **Hébergement** : Vercel
+- **Site édité par** : deMatos B2P
+- **Email** : contact@jusnaturel.fr
+- **Hébergement** : Vercel Inc., 340 S Lemon Ave #4133 Walnut, CA 91789, USA
 
-## Droit d'authors & Propriété Intellectuelle
+## Droit d'auteur & Propriété Intellectuelle
 
-La présentation du site, les textes, et la majorité des éléments, y compris marques, logos et noms de domaine appartiennent à Jardins Passion et sont protégés par les lois sur la propriété intellectuelle.
+La présentation du site, les textes, et la majorité des éléments, y compris marques, logos et noms de domaine appartiennent à Jus Naturel et sont protégés par les lois sur la propriété intellectuelle.
 
 ## Conditions d'Utilisation et Politique de Confidentialité
 
 ### Statistiques et Cookies
 
-Nous utilisons des outils de statistiques pour mieux comprendre notre audience et optimiser notre contenu sur les potagers. Jardins Passion est présent sur divers réseaux sociaux pour la diffusion de son contenu.
+Nous utilisons des outils de statistiques pour mieux comprendre notre audience et optimiser notre contenu sur les jus naturels. Jus Naturel est présent sur divers réseaux sociaux pour la diffusion de son contenu.
 
 ### Liens Hypertextes
 
-Notre site contient des liens vers d'autres ressources pertinentes sur le jardinage et les potagers. Ces liens visent à enrichir l'expérience de nos utilisateurs.
+Notre site contient des liens vers d'autres ressources pertinentes sur les jus et l'alimentation saine. Ces liens visent à enrichir l'expérience de nos utilisateurs.
 
 ### Propriété Intellectuelle
 
-Tout le contenu sur Jardins Passion, incluant textes, images, vidéos sur les potagers, est la propriété exclusive de Jardins Passion, sauf mention contraire. Toute reproduction non autorisée est strictement interdite.
+Tout le contenu sur Jus Naturel, incluant textes, images, vidéos sur les jus naturels, est la propriété exclusive de Jus Naturel, sauf mention contraire. Toute reproduction non autorisée est strictement interdite.
 
 ## Litiges
 
-Les présentes conditions sont régies par le droit français. Tout litige sera de la compétence exclusive des tribunaux dont dépend le siège social de Jardins Passion.
+Les présentes conditions sont régies par le droit français. Tout litige sera de la compétence exclusive des tribunaux dont dépend le siège social de Jus Naturel.
 
 ## Politique des Cookies
 
@@ -58,4 +57,4 @@ Vous pouvez désactiver les cookies dans les paramètres de votre navigateur.
 
 ---
 
-Toutes les informations sur Jardins Passion sont données à titre indicatif et sont susceptibles d'évoluer. Nous nous engageons à fournir des conseils de qualité sur la création et l'entretien de potagers, tout en respectant votre vie privée.
+Toutes les informations sur Jus Naturel sont données à titre indicatif et sont susceptibles d'évoluer. Nous nous engageons à fournir des conseils de qualité sur la préparation et les bienfaits des jus naturels, tout en respectant votre vie privée.

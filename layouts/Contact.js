@@ -58,46 +58,40 @@ const Contact = ({ data }) => {
         </form>
 
         <div className="mt-10 text-center">
-          <h3 className="mb-4">Bienvenue sur Jardins Passions</h3>
-          <p className="mb-4">
-            Nous sommes ravis de vous accueillir sur notre site dédié à la passion du jardinage. Chez Jardins Passions, nous aimons aider les jardiniers, qu'ils soient débutants ou expérimentés, à cultiver leur passion et à faire fleurir leurs espaces verts.
-          </p>
-          <p className="mb-4">
-            Si vous avez des questions, des suggestions ou simplement envie de partager votre expérience de jardinage, n'hésitez pas à nous contacter. C'est toujours un plaisir pour nous d'échanger avec des passionnés comme vous !
-          </p>
-          <p className="mb-4">
-            Que vous ayez besoin de conseils sur le choix des plantes, des astuces pour l'entretien de votre jardin, ou des informations sur les dernières tendances en matière de jardinage écologique, notre équipe est là pour vous aider.
-          </p>
-          <p>
-            Ensemble, faisons de chaque espace vert un petit coin de paradis. Merci de faire partie de la communauté Jardins Passions !
-          </p>
-        </div>
+  <h1 className="text-3xl font-bold mb-4">Contactez l'Équipe Jus Naturel</h1>
+  <p className="text-xl mb-6">Nous adorons échanger avec notre communauté de passionnés de jus frais !</p>
+  <p className="mb-4">Pour toute question, suggestion ou simplement pour partager votre expérience, n'hésitez pas à nous contacter :</p>
+  <p className="text-2xl font-bold text-green-600">contact@jusnaturel.fr</p>
+  <p className="mt-6">Nous vous répondrons avec plaisir dans les plus brefs délais.</p>
+</div>
 
-        <div className="mt-16">
-          <h3 className="mb-8 text-center">Foire Aux Questions</h3>
-          <div className="space-y-6">
-            <div>
-              <h4 className="mb-2 font-semibold">Comment puis-je devenir partenaire de Jardins Passions ?</h4>
-              <p>Pour devenir partenaire, veuillez nous contacter via le formulaire ci-dessus en précisant "Partenariat" dans le sujet. Nous examinerons votre demande et vous répondrons dans les plus brefs délais avec plus d'informations sur notre programme de partenariat.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Quel est le délai de réponse habituel ?</h4>
-              <p>Nous nous efforçons de répondre à toutes les demandes dans un délai de 48 heures ouvrables. Pour les questions urgentes, n'hésitez pas à nous contacter par téléphone.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Proposez-vous des consultations de jardinage personnalisées ?</h4>
-              <p>Oui, nous offrons des consultations personnalisées. Veuillez nous contacter avec les détails de votre projet de jardinage, et nous vous proposerons un rendez-vous pour discuter de vos besoins spécifiques.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Comment puis-je m'abonner à votre newsletter ?</h4>
-              <p>Vous pouvez vous abonner à notre newsletter directement depuis notre page d'accueil. Vous recevrez régulièrement des conseils de jardinage, des offres spéciales et des nouvelles sur nos derniers produits.</p>
-            </div>
-            <div>
-              <h4 className="mb-2 font-semibold">Organisez-vous des événements ou des ateliers de jardinage ?</h4>
-              <p>Oui, nous organisons régulièrement des ateliers et des événements. Consultez notre page "Événements" pour voir le calendrier à venir ou inscrivez-vous à notre newsletter pour être informé des prochaines dates.</p>
-            </div>
-          </div>
-        </div>
+<div className="mt-16">
+  <h2 className="text-2xl font-bold mb-6 text-center">Questions Fréquentes</h2>
+  
+  <div className="space-y-6">
+    <div>
+      <h3 className="text-xl font-semibold mb-2">Q : Combien de temps puis-je conserver mon jus frais ?</h3>
+      <p>R : Pour une fraîcheur optimale, nous recommandons de consommer vos jus dans les 24 à 48 heures suivant leur préparation. Conservez-les au réfrigérateur dans un contenant hermétique.</p>
+    </div>
+    
+    <div>
+      <h3 className="text-xl font-semibold mb-2">Q : Puis-je soumettre ma propre recette de jus ?</h3>
+      <p>R : Absolument ! Nous adorons découvrir de nouvelles recettes. Envoyez-nous votre création à contact@jusnaturel.fr, et elle pourrait être publiée sur notre site avec votre nom.</p>
+    </div>
+    
+    <div>
+      <h3 className="text-xl font-semibold mb-2">Q : Quels fruits et légumes sont les meilleurs pour débuter ?</h3>
+      <p>R : Les pommes, carottes, concombres et épinards sont excellents pour commencer. Ils sont faciles à mixer et riches en nutriments. N'hésitez pas à nous contacter pour des conseils personnalisés !</p>
+    </div>
+    
+    <div>
+      <h3 className="text-xl font-semibold mb-2">Q : Proposez-vous des ateliers ou des événements autour des jus ?</h3>
+      <p>R : Oui, nous organisons régulièrement des ateliers en ligne et en présentiel. Suivez-nous sur les réseaux sociaux ou inscrivez-vous à notre newsletter pour être informé des prochaines dates.</p>
+    </div>
+  </div>
+  
+  <p className="mt-10 text-center text-lg">Vous avez une autre question ? N'hésitez pas à nous contacter, nous serons ravis d'y répondre !</p>
+</div>
       </div>
     </section>
   );

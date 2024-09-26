@@ -1,7 +1,7 @@
 ---
-title: "Contactez Jardins Passion - Votre Expert en Potagers"
+title: "Contactez-nous | Jus Naturel"
 layout: "contact"
-meta_title: "Contact | Jardins Passion - Conseils d'Experts en Potagers"
-description: "Besoin d'aide pour votre potager ? Contactez les experts de Jardins Passion. Conseils personnalisés, astuces de jardinage et solutions pour cultiver vos légumes."
+meta_title: "Contact Jus Naturel | Partagez Vos Idées et Questions sur les Jus Frais"
+description: "Contactez l'équipe de Jus Naturel pour toutes vos questions sur les jus frais, suggestions de recettes ou collaborations. Nous sommes impatients d'échanger avec vous et de partager notre passion pour les jus naturels !"
 draft: false
 ---

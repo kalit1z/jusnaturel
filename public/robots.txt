@@ -4,7 +4,7 @@ Allow: /
 Disallow: /home
 
 # Host
-Host: https://www.jardins-passion.fr
+Host: https://www.jusnaturel.fr
 
 # Sitemaps
-Sitemap: https://www.jardins-passion.fr/sitemap.xml
+Sitemap: https://www.jusnaturel.fr/sitemap.xml

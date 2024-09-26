@@ -10,7 +10,7 @@
     },
     {
       "name": "En apprendre plus",
-      "url": "https://www.fastercook.fr/letter-potager"
+      "url": "https://www.fastercook.fr/jus"
     },
     {
       "name": "Catégories",
@@ -18,20 +18,12 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Planter",
-          "url": "/categories/planter-votre-potager"
+          "name": "jus de fruits",
+          "url": "/categories/jus-de-fruits"
         },
         {
-          "name": "Entretenir",
-          "url": "/categories/entretenir-votre-potager"
-        },
-        {
-          "name": "Récolter",
-          "url": "/categories/recolter-votre-potager"
-        },
-        {
-          "name": "Astuces...",
-          "url": "/categories/astuces-du-potager"
+          "name": "jus de légumes",
+          "url": "/categories/jus-de-legumes"
         }
       ]
     }
