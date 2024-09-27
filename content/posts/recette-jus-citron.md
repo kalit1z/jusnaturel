@@ -22,19 +22,19 @@ Tout commence par le choix des citrons. Imaginez-vous, flânant sur un marché e
 
 Voici quelques astuces pour choisir des citrons qui feront chanter vos papilles :
 
-• Poids : Optez pour des citrons lourds pour leur taille, signe de jutosité
-• Peau : Cherchez une peau fine et lisse, d'un beau jaune vif
-• Fermeté : Le citron doit être ferme mais céder légèrement sous la pression
-• Parfum : Un bon citron dégage déjà une odeur citronnée à travers sa peau
+- Poids : Optez pour des citrons lourds pour leur taille, signe de jutosité
+- Peau : Cherchez une peau fine et lisse, d'un beau jaune vif
+- Fermeté : Le citron doit être ferme mais céder légèrement sous la pression
+- Parfum : Un bon citron dégage déjà une odeur citronnée à travers sa peau
 
 N'ayez pas peur des citrons à la peau un peu rugueuse, ils sont souvent plus savoureux !
 
 ### Les Variétés de Citron à Connaître
 
-• Citron de Menton : Doux et parfumé, idéal pour le jus
-• Citron Meyer : Plus doux et moins acide, parfait pour ceux qui trouvent le citron trop fort
-• Citron de Sicile : Juteux et acidulé, le classique par excellence
-• Citron Eureka : Peu de pépins, parfait pour un jus facile à préparer
+- Citron de Menton : Doux et parfumé, idéal pour le jus
+- Citron Meyer : Plus doux et moins acide, parfait pour ceux qui trouvent le citron trop fort
+- Citron de Sicile : Juteux et acidulé, le classique par excellence
+- Citron Eureka : Peu de pépins, parfait pour un jus facile à préparer
 
 <img src="/images/posts/citron/juscitron.webp" alt="Verre de jus d'citron fraîchement pressé" width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
 
@@ -56,10 +56,10 @@ Pro-tip : Ne jetez pas les zestes ! On peut en faire des merveilles (patience, o
 
 Voici comment extraire le maximum de jus de vos citrons :
 
-• Roulez le citron sur le plan de travail en appuyant fermement
-• Coupez le citron en deux dans le sens de la largeur
-• Utilisez un presse-agrumes manuel ou électrique pour extraire le jus
-• Pour les plus courageux, pressez à la main (attention aux yeux !)
+- Roulez le citron sur le plan de travail en appuyant fermement
+- Coupez le citron en deux dans le sens de la largeur
+- Utilisez un presse-agrumes manuel ou électrique pour extraire le jus
+- Pour les plus courageux, pressez à la main (attention aux yeux !)
 
 ## L'Art de la Perfection : Peaufiner Votre Élixir Citronné
 
@@ -69,18 +69,18 @@ Votre jus est presque prêt, mais quelques touches finales peuvent le rendre irr
 
 C'est le moment de personnaliser votre création :
 
-• Un peu de sucre ou de miel pour adoucir l'acidité
-• Quelques feuilles de menthe fraîche pour une note de fraîcheur
-• Un soupçon de gingembre râpé pour un petit kick épicé
-• De l'eau gazeuse pour une version pétillante rafraîchissante
+- Un peu de sucre ou de miel pour adoucir l'acidité
+- Quelques feuilles de menthe fraîche pour une note de fraîcheur
+- Un soupçon de gingembre râpé pour un petit kick épicé
+- De l'eau gazeuse pour une version pétillante rafraîchissante
 
 ### Les Combinaisons Gagnantes : Jus Vitaminé Suprême
 
 Osez les mélanges pour un jus encore plus bénéfique :
 
-• Citron-Orange-Pamplemousse : Le trio d'agrumes vitaminé
-• Citron-Concombre-Menthe : La boisson détox par excellence
-• Citron-Fraise-Basilic : Une explosion de saveurs estivales
+- Citron-Orange-Pamplemousse : Le trio d'agrumes vitaminé
+- Citron-Concombre-Menthe : La boisson détox par excellence
+- Citron-Fraise-Basilic : Une explosion de saveurs estivales
 
 ## La Conservation : Préserver l'Or Liquide
 
@@ -90,17 +90,17 @@ Votre jus de citron est un trésor de vitamines, conservons-le avec soin !
 
 Pour une consommation immédiate :
 
-• Versez dans une carafe en verre
-• Placez au réfrigérateur
-• Consommez dans les 24-48 heures pour une fraîcheur optimale
+- Versez dans une carafe en verre
+- Placez au réfrigérateur
+- Consommez dans les 24-48 heures pour une fraîcheur optimale
 
 ### La Méthode Longue Durée : Glaçons Citronnés
 
 Pour garder un peu de soleil pour l'hiver :
 
-• Versez le jus dans des bacs à glaçons
-• Congelez et transférez les cubes dans un sac de congélation
-• Parfait pour vos boissons ou pour relever vos plats !
+- Versez le jus dans des bacs à glaçons
+- Congelez et transférez les cubes dans un sac de congélation
+- Parfait pour vos boissons ou pour relever vos plats !
 
 <img src="/images/posts/citron/jusscitr.webp" alt="Verre de jus d'citron fraîchement pressé" width="500" height="300" style={{ display: 'block', margin: 'auto', borderRadius: '10px' }} /> 
 
@@ -110,13 +110,13 @@ Le citron est généreux jusqu'au bout. Voici comment utiliser chaque partie :
 
 ### Les Zestes : Un Concentré de Saveurs
 
-• Râpez-les finement pour parfumer vos pâtisseries ou vos vinaigrettes
-• Faites-les confire pour des garnitures gourmandes
+- Râpez-les finement pour parfumer vos pâtisseries ou vos vinaigrettes
+- Faites-les confire pour des garnitures gourmandes
 
 ### La Pulpe : Riche en Fibres
 
-• Incorporez-la dans vos smoothies pour plus de texture
-• Utilisez-la comme exfoliant naturel pour la peau
+- Incorporez-la dans vos smoothies pour plus de texture
+- Utilisez-la comme exfoliant naturel pour la peau
 
 ## Les Bienfaits Insoupçonnés de Votre Potion Citronnée
 
