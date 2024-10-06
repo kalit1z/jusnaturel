@@ -5,7 +5,7 @@ description: "Découvrez comment préparer un jus de chou kale riche en nutrimen
 date: 2024-10-07
 image: "/images/posts/kale/kale-jus.webp"
 imageAlt: "Verre de jus de chou kale frais"
-categories: ["Jus de Légumes"]
+categories: ["Jus de Legumes"]
 authors: ["Nuno Blanc"]
 tags: ["chou kale"]
 draft: false
