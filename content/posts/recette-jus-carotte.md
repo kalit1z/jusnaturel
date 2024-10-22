@@ -7,7 +7,7 @@ image: "/images/posts/carotte/carottes-fraiches.webp"
 imageAlt: "Carottes fraîches et juteuses prêtes à être transformées en jus"
 categories: ["Jus de Legumes"]
 authors: ["Nuno Blanc"]
-tags: ["jus de carotte", "recette maison"]
+tags: []
 draft: false
 ---
 

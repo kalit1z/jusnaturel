@@ -7,7 +7,7 @@ image: "/images/posts/celeri/celeri-frais.webp"
 imageAlt: "Branches de céleri fraîches et croquantes prêtes à être transformées en jus"
 categories: ["Jus de Legumes"]
 authors: ["Nuno Blanc"]
-tags: ["jus de céleri", "recette maison"]
+tags: []
 draft: false
 ---
 

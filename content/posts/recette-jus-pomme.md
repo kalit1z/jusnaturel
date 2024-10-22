@@ -7,7 +7,7 @@ image: "/images/posts/pomme/pommes-fraiches.webp"
 imageAlt: "Panier de pommes fraîches et colorées prêtes à être pressées"
 categories: ["Jus de Fruits"]
 authors: ["Marta Silva"]
-tags: ["jus de pomme", "recette maison"]
+tags: []
 draft: false
 ---
 Ce nectar doré qui évoque instantanément les souvenirs d'enfance, les après-midis d'automne et le confort d'une boisson saine et délicieuse. Aujourd'hui, mes amis, je vais vous emmener dans un voyage gustatif au cœur des vergers, pour vous apprendre à créer votre propre jus de pomme maison. Croyez-moi, une fois que vous aurez goûté à la fraîcheur et à l'authenticité d'un jus fait maison, vous ne pourrez plus vous en passer !

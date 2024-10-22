@@ -7,7 +7,7 @@ image: "/images/posts/ananas/ananasplage.webp"
 imageAlt: "Ananas mûr et juteux prêt à être transformé en délicieux jus"
 categories: ["Jus de Fruits"]
 authors: ["Marta Silva"]
-tags: ["jus d'ananas", "recette maison"]
+tags: []
 draft: false
 ---
 

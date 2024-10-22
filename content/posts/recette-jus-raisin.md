@@ -7,7 +7,7 @@ image: "/images/posts/raisin/grappes-raisin.webp"
 imageAlt: "Grappes de raisin mûres et juteuses prêtes à être pressées"
 categories: ["Jus de Fruits"]
 authors: ["Marta Silva"]
-tags: ["jus de raisin", "recette maison"]
+tags: []
 draft: false
 ---
 

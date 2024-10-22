@@ -7,7 +7,7 @@ image: "/images/posts/orange/orange-fraiche.webp"
 imageAlt: "Oranges fraîches coupées en deux et presse-agrumes pour jus maison"
 categories: ["Jus de Fruits"]
 authors: ["Marta Silva"]
-tags: ["jus d'orange", "recette maison"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/jus-peche/jus-peche.webp"
 imageAlt: "Verre de jus de pêche frais avec des pêches fraîches en arrière-plan"
 categories: ["Jus de Fruits"]
 authors: ["Marta Silva"]
-tags: ["nutrition", "boissons santé"]
+tags: []
 draft: false
 ---
 

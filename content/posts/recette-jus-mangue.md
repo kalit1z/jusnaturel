@@ -7,7 +7,7 @@ image: "/images/posts/mangues/jusmangue.webp"
 imageAlt: "Mangues juteuses et mûres prêtes à être transformées en jus"
 categories: ["Jus de Fruits"]
 authors: ["Nuno Blanc"]
-tags: ["jus de mangue", "recette maison"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/tomate/tomates-fraiches.webp"
 imageAlt: "Tomates mûres et juteuses prêtes à être transformées en jus"
 categories: ["Jus de Legumes"]
 authors: ["Nuno Blanc"]
-tags: ["jus de tomate", "recette maison", "boisson santé"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/kale/kale-jus.webp"
 imageAlt: "Verre de jus de chou kale frais"
 categories: ["Jus de Legumes"]
 authors: ["Nuno Blanc"]
-tags: ["chou kale"]
+tags: []
 draft: false
 ---
 

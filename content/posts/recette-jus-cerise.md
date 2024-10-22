@@ -7,7 +7,7 @@ image: "/images/posts/cerises/juscerise.webp"
 imageAlt: "Cerises juteuses et mûres prêtes à être transformées en jus"
 categories: ["Jus de Fruits"]
 authors: ["Marta Silva"]
-tags: ["jus de cerise"]
+tags: []
 draft: false
 ---
 

@@ -7,7 +7,7 @@ image: "/images/posts/jus-fraise/fraises-fraiches.webp"
 imageAlt: "Fraises juteuses et mûres prêtes à être transformées en jus"
 categories: ["Jus de Fruits"]
 authors: ["Nuno Blanc"]
-tags: ["jus de fraise", "recette maison"]
+tags: []
 draft: false
 ---
 

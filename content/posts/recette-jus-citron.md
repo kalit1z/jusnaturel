@@ -7,7 +7,7 @@ image: "/images/posts/citron/citrons-frais.webp"
 imageAlt: "Citrons frais et juteux prêts à être pressés"
 categories: ["Jus de Fruits"]
 authors: ["Nuno Blanc"]
-tags: ["jus de citron", "recette maison"]
+tags: []
 draft: false
 ---
 

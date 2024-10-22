@@ -7,7 +7,7 @@ image: "/images/posts/betterave/betteraves-fraiches.webp"
 imageAlt: "Betteraves fraîches et juteuses prêtes à être transformées en jus"
 categories: ["Jus de Legumes"]
 authors: ["Nuno Blanc"]
-tags: ["jus de betterave", "recette maison"]
+tags: []
 draft: false
 ---
 

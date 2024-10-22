@@ -7,7 +7,7 @@ image: "/images/posts/concombre/concombres-frais.webp"
 imageAlt: "Concombres frais et croquants prêts à être transformés en jus"
 categories: ["Jus de Legumes"]
 authors: ["Nuno Blanc"]
-tags: ["jus de concombre", "recette maison"]
+tags: []
 draft: false
 ---
 

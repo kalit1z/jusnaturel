@@ -7,7 +7,7 @@ image: "/images/posts/pamplemousse/pamplemousse-frais.webp"
 imageAlt: "Pamplemousse juteux coupé en deux, prêt à être pressé"
 categories: ["Jus de Fruits"]
 authors: ["Marta Silva"]
-tags: ["jus de pamplemousse", "recette maison"]
+tags: []
 draft: false
 ---
 
