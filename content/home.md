@@ -8,7 +8,7 @@ layout: "home"
 draft: false
 keywords: "jus naturel, jus frais, recettes de jus, santé, bien-être, fruits, légumes, détox, nutrition, vitalité"
 author: "L'équipe Jus Naturel"
-date_modified: "2024-09-27"
+date_modified: "2024-12-07"
 ---
 <h2>La Puissance des Jus Naturels pour Votre Santé</h2>
 
@@ -36,7 +36,7 @@ date_modified: "2024-09-27"
     <li><strong>Douceur Antioxydante :</strong> Myrtille, framboise, et grenade</li>
 </ol>
 
-<p>Prêt à explorer un monde de saveurs fruitées ? <strong><a href="/jus-de-fruits">Découvrez notre collection complète de recettes de jus de fruits</a></strong> et transformez votre routine bien-être !</p>
+<p>Prêt à explorer un monde de saveurs fruitées ? <strong><a href="/categories/jus-de-fruits">Découvrez notre collection complète de recettes de jus de fruits</a></strong> et transformez votre routine bien-être !</p>
 
 <h2>Jus de Légumes : La Révolution Verte dans Votre Verre</h2>
 
@@ -60,7 +60,7 @@ date_modified: "2024-09-27"
     <li><strong>Fraîcheur Alkaline :</strong> Épinard, concombre, citron, et persil</li>
 </ol>
 
-<p>Envie de verdure dans votre verre ? <a href="/jus-de-legumes"><strong>Explorez nos recettes de jus de légumes</strong></a> pour une santé éclatante !</p>
+<p>Envie de verdure dans votre verre ? <a href="/categories/jus-de-legumes"><strong>Explorez nos recettes de jus de légumes</strong></a> pour une santé éclatante !</p>
 
 <h2>Conseils d'Experts pour des Jus Parfaits</h2>
 
@@ -87,4 +87,4 @@ date_modified: "2024-09-27"
 
 <p>Embarquez dans l'aventure des jus naturels et découvrez comment cette simple habitude peut transformer votre santé et votre bien-être. Rejoignez notre communauté passionnée, partagez vos créations, et inspirez-vous des expériences des autres.</p>
 
-<p>N'oubliez pas de consulter régulièrement nos sections <strong><a href="/jus-de-fruits">jus de fruits</a></strong> <br/> <a href="/jus-de-legumes"><strong>jus de légumes</strong></a> pour de nouvelles recettes inspirantes et des conseils d'experts. Votre voyage vers une vie plus saine et plus énergique commence ici !</p>
+<p>N'oubliez pas de consulter régulièrement nos sections <strong><a href="/categories/jus-de-legumes">jus de fruits</a></strong> <br/> <a href="/categories/jus-de-legumes"><strong>jus de légumes</strong></a> pour de nouvelles recettes inspirantes et des conseils d'experts. Votre voyage vers une vie plus saine et plus énergique commence ici !</p>
